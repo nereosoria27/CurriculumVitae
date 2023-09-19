@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "CurriculumVitae",
+			"path": "."
+		},
+		{
+			"name": "Curriculum",
+			"path": "../../../Desktop/Curriculum"
+		}
+	],
+	"settings": {}
+}
